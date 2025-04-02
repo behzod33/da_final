@@ -1,0 +1,7 @@
+films.zip
+test.ipynb
+
+streramlit_multipage/
+.venv/
+__pycache__/
+.ipynb_checkpoints
