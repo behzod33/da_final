@@ -112,8 +112,8 @@ DA_FINAL/
 
 ## Ссылки
 
-- Репозиторий проекта: [https://github.com/your_username/your_repository](https://github.com/your_username/your_repository)
-- Задеплоенный дашборд: [https://your_streamlit_dashboard_link](https://your_streamlit_dashboard_link)
+- Репозиторий проекта: [https://github.com/behzod33/da_final](https://github.com/behzod33/da_final)
+- Задеплоенный дашборд: [https://behzod-da-final.streamlit.app](https://behzod-da-final.streamlit.app)
 
 ---
 
